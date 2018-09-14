@@ -1,0 +1,12 @@
+FOR LINUX SYSTEM ONLY
+1) install pyOpenGL using
+sudo apt-get install python-opengl
+
+#DO NOW INSTALL OPENGL USING PIP
+#installing opengl using pip created a problem with freeglut
+#https://stackoverflow.com/questions/26700719/pyopengl-glutinit-nullfunctionerror
+
+2) Enter the following command in terminal to run the program
+python graphics_assignment_1.py
+
+3) TO move around the sphere use 'a' and 'd' buttons
